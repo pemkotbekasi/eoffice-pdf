@@ -28,3 +28,7 @@ simple pdf footer generation , modul yang digunakan pada aplikasi e-office kota 
 RESPONSE
 
     {"success":true,"code":200,"message":"dokumen berhasil dibuat","data":{"file":"8lLsj1M6T..."}}
+
+
+
+Untuk lebih detail silahkan lihat [README.md](https://github.com/rahadiana/eoffice-pdf/blob/main/README.md)

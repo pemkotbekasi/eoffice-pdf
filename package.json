@@ -1,0 +1,25 @@
+{
+  "name": "@rahadiana/eoffice-pdf",
+  "version": "0.0.1",
+  "description": "simple pdf footer generation",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./tes/tes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahadiana/eoffice-pdf.git"
+  },
+  "keywords": ["eoffice","bsre","bssn"],
+  "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahadiana/eoffice-pdf/issues"
+  },
+  "homepage": "https://github.com/rahadiana/eoffice-pdf#readme",
+  "dependencies": {
+    "@rahadiana/node_response_standard": "^0.0.1",
+    "axios": "^1.2.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
